@@ -16,7 +16,7 @@ Contoh:
 
 ## Cara Pakai:
 1. Masukkan paste copy ke input.txt
-2. Jalankan program
+2. Jalankan program main.py
 3. Buka output.txt
 
 ## Catatan Tambahan

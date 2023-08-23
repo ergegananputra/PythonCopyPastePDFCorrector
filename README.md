@@ -14,3 +14,11 @@ Contoh:
     Program untuk membenarkan hasil Copy Paste dari PDF yang berantakan.
     ```
 
+## Cara Pakai:
+1. Masukkan paste copy ke input.txt
+2. Jalankan program
+3. Buka output.txt
+
+## Catatan Tambahan
+Terdapat pengubah heading dengan key tertentu ke jenis Title. Sebagai contoh menggunakan underscore "_".
+Program akan membaca key tersebut dan menganggap line tersebut merupakan judul yang perlu dirubah.
